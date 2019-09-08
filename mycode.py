@@ -1,3 +1,3 @@
 #!/usr/bin/python
-
-print("Hello World")
+import sys
+print("Your argument is ",sys.argv[1:])
